@@ -1,4 +1,4 @@
-(module Mylib_Device:gyroLogo (layer F.Cu) (tedit 58ABE2A9)
+(module gyroLogo (layer F.Cu) (tedit 58ABE2A9)
   (fp_text reference U2 (at -0.508 3.81) (layer F.SilkS) hide
     (effects (font (thickness 0.3)))
   )
