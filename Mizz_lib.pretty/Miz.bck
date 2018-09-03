@@ -8,4 +8,9 @@ $CMP MOS_P
 F transistors/mos/*.*
 $ENDCMP
 #
+$CMP NVGB1306L
+D Triple LED RVB (Avago Technology)
+F http://www.avagotech.com/docs/AV02-2589EN
+$ENDCMP
+#
 #End Doc Library
