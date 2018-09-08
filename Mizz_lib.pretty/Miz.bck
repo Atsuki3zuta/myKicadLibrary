@@ -1,6 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MOSFET_N
+F transistors/mos/*.*
+$ENDCMP
+#
 $CMP MOSFET_P
+F transistors/mos/*.*
+$ENDCMP
+#
+$CMP MOS_N
 F transistors/mos/*.*
 $ENDCMP
 #
