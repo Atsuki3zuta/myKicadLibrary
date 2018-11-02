@@ -4,6 +4,10 @@ $CMP MOSFET_N
 F transistors/mos/*.*
 $ENDCMP
 #
+$CMP MOSFET_N_123
+F transistors/mos/*.*
+$ENDCMP
+#
 $CMP MOSFET_P
 F transistors/mos/*.*
 $ENDCMP
