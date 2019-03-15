@@ -1,4 +1,4 @@
-(module SOD-123 (layer F.Cu) (tedit 5B67B1FE)
+(module SOD-123 (layer F.Cu) (tedit 5C70464D)
   (descr SOD-123)
   (tags SOD-123)
   (attr smd)
@@ -31,5 +31,10 @@
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model C:/Users/Mizuta/Downloads/kicad-packages3D-master/Diode_SMD.3dshapes/D_SOD-123.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
   )
 )
