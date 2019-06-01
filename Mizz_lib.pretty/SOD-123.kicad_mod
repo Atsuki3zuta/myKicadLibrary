@@ -1,8 +1,16 @@
+<<<<<<< HEAD
+(module SOD-123 (layer F.Cu) (tedit 5C9D7EFA)
+  (descr SOD-123)
+  (tags SOD-123)
+  (attr smd)
+  (fp_text reference D3 (at 0 -2) (layer F.Fab) hide
+=======
 (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 5CF248B0)
   (descr SOD-123)
   (tags SOD-123)
   (attr smd)
   (fp_text reference D20 (at 0 -2) (layer F.SilkS)
+>>>>>>> Test_Lib_parts
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value DIODE (at 0 2.1) (layer F.Fab)
@@ -35,5 +43,10 @@
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model C:/Users/Mizuta/Downloads/kicad-packages3D-master/Diode_SMD.3dshapes/D_SOD-123.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
   )
 )
