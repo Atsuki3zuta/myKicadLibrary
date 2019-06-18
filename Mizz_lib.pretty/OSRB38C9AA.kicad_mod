@@ -1,21 +1,17 @@
-(module Mizz_lib:OSRB38C9AA (layer F.Cu) (tedit 5C9B8C8B)
-  (fp_text reference U20 (at 0 0.5) (layer F.SilkS) hide
+(module Mizz_lib:OSRB38C9AA (layer F.Cu) (tedit 5CF268E0)
+  (fp_text reference U21 (at 0 0.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-<<<<<<< HEAD
-  (fp_text value OSRB38C9AA (at 0 -2.6) (layer F.SilkS)
-=======
-  (fp_text value OSRB38C9AA (at 0.75 -2) (layer F.SilkS)
->>>>>>> Test_Lib_parts
+  (fp_text value OSRB38C9AA (at 0 -2.54) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.2)))
   )
-  (fp_line (start 0 -1.8) (end -3.1 -1.8) (layer F.Fab) (width 0.15))
-  (fp_line (start -3.1 -1.8) (end -3.1 1.8) (layer F.Fab) (width 0.15))
-  (fp_line (start -3.1 1.8) (end 3.1 1.8) (layer F.Fab) (width 0.15))
-  (fp_line (start 3.1 1.8) (end 3.1 -1.8) (layer F.Fab) (width 0.15))
-  (fp_line (start 3.1 -1.8) (end 0 -1.8) (layer F.Fab) (width 0.15))
   (fp_arc (start 0 1.8) (end -1.75 1.8) (angle -180) (layer F.Fab) (width 0.15))
-  (pad 1 thru_hole circle (at -2.54 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
+  (fp_line (start 3.1 -1.8) (end 0 -1.8) (layer F.Fab) (width 0.15))
+  (fp_line (start 3.1 1.8) (end 3.1 -1.8) (layer F.Fab) (width 0.15))
+  (fp_line (start -3.1 1.8) (end 3.1 1.8) (layer F.Fab) (width 0.15))
+  (fp_line (start -3.1 -1.8) (end -3.1 1.8) (layer F.Fab) (width 0.15))
+  (fp_line (start 0 -1.8) (end -3.1 -1.8) (layer F.Fab) (width 0.15))
   (pad 3 thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at -2.54 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
 )

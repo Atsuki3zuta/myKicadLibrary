@@ -1,33 +1,92 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP MOSFET_N
-F transistors/mos/*.*
+$CMP 7402
+D quad 2-input NOR gate
+K TTL Nor2
+F http://www.ti.com/lit/gpn/sn7402
 $ENDCMP
 #
-$CMP MOSFET_N_123
-F transistors/mos/*.*
+$CMP 74HC02
+D quad 2-input NOR gate
+K HCMOS Nor2
+F http://www.ti.com/lit/gpn/sn74hc02
 $ENDCMP
 #
-$CMP MOSFET_P
-F transistors/mos/*.*
+$CMP 74HCT02
+D quad 2-input NOR gate
+K HCTMOS Nor2
+F http://www.ti.com/lit/gpn/sn74hct02
 $ENDCMP
 #
-$CMP MOS_N
-F transistors/mos/*.*
+$CMP 74LS02
+D quad 2-input NOR gate
+K TTL Nor2
+F http://www.ti.com/lit/gpn/sn74ls02
 $ENDCMP
 #
-$CMP MOS_P
-F transistors/mos/*.*
+$CMP 74LS04
+D Hex Inverter
+K TTL not inv
+F http://www.ti.com/lit/gpn/sn74LS04
 $ENDCMP
 #
-$CMP NVGB1306L
-D Triple LED RVB (Avago Technology)
-F http://www.avagotech.com/docs/AV02-2589EN
+$CMP 74LS28
+D quad 2-input NOR buffer NRND
+K TTL Nor2 Buffer
+F http://eeshop.unl.edu/pdf/74ls28.pdf
 $ENDCMP
 #
-$CMP SBRDIODE
-D Diode schotty - cms
-K DIODE SCHOTTKY CMS
+$CMP 7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP 78L05
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78lxx.pdf
+$ENDCMP
+#
+$CMP 78L05_copy
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78lxx.pdf
+$ENDCMP
+#
+$CMP DIODE_rev
+D Diode simple
+K DEV DIODE
+$ENDCMP
+#
+$CMP LM7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP LM7805_copy
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP LM7812
+D Linear Regulator +12V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP LM7812_copy
+D Linear Regulator +12V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP NJML7800
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
 $ENDCMP
 #
 #End Doc Library
