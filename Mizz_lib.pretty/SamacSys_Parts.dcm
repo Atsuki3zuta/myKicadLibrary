@@ -6,4 +6,16 @@ K
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
+$CMP WSHP28182L000FEB
+D VISHAY - WSHP28182L000FEB - SMD Current Sense Resistor, 0.002 ohm, WSHP2818 Series, 2818 [7146 Metric], 10 W, ? 1%, Metal Strip
+K
+F https://rs.componentsearchengine.com/Datasheets/2/WSHP28182L000FEB.pdf
+$ENDCMP
+#
+$CMP NVMFD5C446NLT1G
+D Power MOSFET 40V, 145A, 2.65 mOhm, Dual N-Channel, SO8-FL, Logic Level.
+K
+F https://componentsearchengine.com/Datasheets/1/NVMFD5C446NLT1G.pdf
+$ENDCMP
+#
 #End Doc Library
