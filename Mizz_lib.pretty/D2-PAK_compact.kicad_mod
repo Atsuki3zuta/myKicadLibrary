@@ -1,4 +1,4 @@
-(module D2-PAK_compact (layer F.Cu) (tedit 58946811)
+(module D2-PAK_compact (layer F.Cu) (tedit 5DCB3FEA)
   (descr D2Pak_compact)
   (attr smd)
   (fp_text reference Q6 (at 0 -0.5) (layer F.SilkS)
@@ -28,9 +28,9 @@
   (pad G smd rect (at -2.54 3) (size 1.8 3.5) (layers F.Cu F.Paste F.Mask))
   (pad S smd rect (at 2.54 3) (size 3 3.5) (layers F.Cu F.Paste F.Mask))
   (pad D smd rect (at 0 -7) (size 10 8) (layers F.Cu F.Paste F.Mask))
-  (model TO_SOT_Packages_SMD.3dshapes/SOT-404.wrl
-    (offset (xyz 0 1.904999971389771 0))
+  (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/TO-263-2.step
+    (offset (xyz 0 3 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 -90))
   )
 )
