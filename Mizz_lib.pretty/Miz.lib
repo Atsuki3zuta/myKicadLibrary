@@ -21,6 +21,28 @@ X Vcc 8 450 300 200 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+# 3522-2
+#
+DEF 3522-2 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "3522-2" 650 200 50 H V L CNN
+F2 "3522-2" 650 100 50 H I L CNN
+F3 "http://uk.rs-online.com/web/p/products/1676068" 650 0 50 H I L CNN
+F4 "Double ATO 257 fuseholder,15A 500Vac Keystone 15A PCB Mount Fuse Holder for 5.2 x 0.64mm Automotive Fuse, 500 V ac" 650 -100 50 H I L CNN "Description"
+F5 "1676068" 650 -300 50 H I L CNN "RS Part Number"
+F6 "http://uk.rs-online.com/web/p/products/1676068" 650 -400 50 H I L CNN "RS Price/Stock"
+F7 "Keystone Electronics" 650 -500 50 H I L CNN "Manufacturer_Name"
+F8 "3522-2" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+F9 "70181615" 650 -700 50 H I L CNN "Allied_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 800 0 200 L 50 50 0 0 U
+X 3 3 0 -100 200 R 50 50 0 0 U
+X 4 4 800 -100 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
 # 74LS02
 #
 DEF 74LS02 U 0 40 Y Y 5 L N

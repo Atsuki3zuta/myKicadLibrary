@@ -18,4 +18,10 @@ K
 F https://componentsearchengine.com/Datasheets/1/NVMFD5C446NLT1G.pdf
 $ENDCMP
 #
+$CMP 3522-2
+D Double ATO 257 fuseholder,15A 500Vac Keystone 15A PCB Mount Fuse Holder for 5.2 x 0.64mm Automotive Fuse, 500 V ac
+K
+F http://uk.rs-online.com/web/p/products/1676068
+$ENDCMP
+#
 #End Doc Library
