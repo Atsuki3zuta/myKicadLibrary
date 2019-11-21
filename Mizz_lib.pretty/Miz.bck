@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 3522-2
+D Double ATO 257 fuseholder,15A 500Vac Keystone 15A PCB Mount Fuse Holder for 5.2 x 0.64mm Automotive Fuse, 500 V ac
+F http://uk.rs-online.com/web/p/products/1676068
+$ENDCMP
+#
 $CMP 7402
 D quad 2-input NOR gate
 K TTL Nor2
