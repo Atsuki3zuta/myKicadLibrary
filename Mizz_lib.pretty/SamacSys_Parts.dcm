@@ -24,4 +24,10 @@ K
 F http://uk.rs-online.com/web/p/products/1676068
 $ENDCMP
 #
+$CMP V23086C1001A403-EV-BLBOX
+D Automotive Relays V23086C1001A403-EV-BLBOX
+K
+F https://componentsearchengine.com/Datasheets/1/V23086C1001A403-EV-BLBOX.pdf
+$ENDCMP
+#
 #End Doc Library
