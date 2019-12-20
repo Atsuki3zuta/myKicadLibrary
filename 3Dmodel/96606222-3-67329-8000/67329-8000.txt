@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"SUPPLIER";"Molex";"";
+"TraceParts.PartStatus";"Published";"";
+"DEFAULT_LONG_DESCRIPTION";"Type A USB upright flange-out w/forklock";"";
+"RS_STOCK_NUMBER";"5152049P";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.InstanceId";"10-25112019-164239EJODEJAV81O731KOJ1C2HIN4W";"";
+"TraceParts.PartTitle";"Type A USB upright flange-out w/forklock";"";
+"MPN_KITMA";"67329-8000";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartNumber";"10-25112019-164239";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-25112019-164239";"";

@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"SUPPLIER";"Hirose";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"8281884";"";
+"REVISION";"A";"";
+"DESIGN";"Push-Push Top board mounting R/angle SMT";"";
+"TraceParts.InstanceId";"10-23022015-1127222OMDZNY5URMVLYNK5TAK2IIX0";"";
+"TraceParts.PartTitle";"Push-Push Top board mounting R/angle SMT";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.PartNumber";"10-23022015-112722";"";
+"REFERENCE";"DM3AT-SF-PEJM5";"";
+"TIMESTAMP";"16/02/2015 16:02";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.ClassPath";"";"";
