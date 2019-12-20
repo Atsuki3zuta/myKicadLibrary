@@ -1,0 +1,18 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"FCI";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"RS_STOCK_NUMBER";"7675989";"";
+"REVISION";"A";"";
+"DESIGN";"USB Type A, Receptacle, Side, Through Hole, 30u GXT Contact, 4 Pins, Back Shield and Hown-Down with";"";
+"TraceParts.InstanceId";"10-26052016-10561364THBS5B92PR8UITXS2ZQ53NH";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"USB Type A, Receptacle, Side, Through Hole, 30u GXT Contact, 4 Pins, Back Shield and Hown-Down with";"";
+"REFERENCE";"737250110BLF";"";
+"OMNICLASS23";"23.35.27.13";"";
+"TIMESTAMP";"20/05/2016 10:10";"";
+"TraceParts.PartNumber";"10-26052016-105613";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/F_RS_COMPONENTS/PSSS_435563/PSS_435683/PSF_435705/10-26052016-105613";"";
