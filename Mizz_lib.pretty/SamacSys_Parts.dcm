@@ -30,4 +30,10 @@ K
 F https://componentsearchengine.com/Datasheets/1/V23086C1001A403-EV-BLBOX.pdf
 $ENDCMP
 #
+$CMP 2MS1T1B4M7QES
+D Sub-Miniature Toggle Switch
+K
+F http://akizukidenshi.com/download/ds/cosland/2MS1T1B4M7QES.pdf
+$ENDCMP
+#
 #End Doc Library

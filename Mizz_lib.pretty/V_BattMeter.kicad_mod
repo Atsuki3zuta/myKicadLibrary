@@ -1,8 +1,8 @@
-(module V_BattMeter (layer F.Cu) (tedit 5A37A02C)
-  (fp_text reference P7 (at 0 0.5) (layer F.SilkS)
+(module V_BattMeter (layer F.Cu) (tedit 5E158991)
+  (fp_text reference P7 (at 0 0.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value CONN_01X01 (at 0 -0.5) (layer F.Fab)
+  (fp_text value CONN_01X01 (at 0 -0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -11 -5) (end -11 5) (layer F.SilkS) (width 0.15))

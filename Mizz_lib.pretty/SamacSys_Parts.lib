@@ -124,4 +124,28 @@ P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model 2MS1T1B4M7QES
+#/2363253/139831/2.45/4/4/Switch
+DEF 2MS1T1B4M7QES S 0 30 Y Y 1 F N
+F0 "S" 750 300 50 H V L CNN
+F1 "2MS1T1B4M7QES" 750 200 50 H V L CNN
+F2 "2MS1T1B4M7QES" 750 100 50 H I L CNN
+F3 "http://akizukidenshi.com/download/ds/cosland/2MS1T1B4M7QES.pdf" 750 0 50 H I L CNN
+F4 "Sub-Miniature Toggle Switch" 750 -100 50 H I L CNN "Description"
+F5 "8.13" 750 -200 50 H I L CNN "Height"
+F6 "Cosland" 750 -300 50 H I L CNN "Manufacturer_Name"
+F7 "2MS1T1B4M7QES" 750 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 750 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 750 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 750 -700 50 H I L CNN "RS Part Number"
+F11 "" 750 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+X 1 1 0 -200 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 0 0 200 R 50 50 0 0 U
+X MH1 MH1 0 -300 200 R 50 50 0 0 U
+P 5 0 1 6 200 100 700 100 700 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library
