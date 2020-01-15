@@ -1,9 +1,9 @@
-(module XT30_F (layer F.Cu) (tedit 5DCFFBF7)
-  (fp_text reference P4 (at 4.9 -0.7) (layer F.Fab) hide
+(module XT30_F (layer F.Cu) (tedit 5E1D87A1)
+  (fp_text reference J8 (at 4.9 -0.7) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value XT30_F (at 4.6 6) (layer F.Fab) hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value XT30_F (at 4.6 6) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.25)))
   )
   (fp_line (start 8.4 0) (end 0 0) (layer F.SilkS) (width 0.15))
   (fp_line (start 8.4 5.2) (end 0 5.2) (layer F.SilkS) (width 0.15))
@@ -13,9 +13,9 @@
   (fp_line (start 0 0) (end 0 5.2) (layer F.SilkS) (width 0.15))
   (pad 2 thru_hole circle (at 2.6 2.6) (size 4.5 4.5) (drill 2.5) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 7.6 2.6) (size 4.5 4.5) (drill 2.5) (layers *.Cu *.Mask F.SilkS))
-  (model conn_XT/XT60M.wrl
-    (offset (xyz 5.079999923706055 -2.603499960899353 0))
-    (scale (xyz 0.254 0.254 0.254))
-    (rotate (xyz 0 0 180))
+  (model C:/Users/3Zuta/OneDrive/デスクトップ/Ki-Cad_Lib/3Dmodel/XT30/XT30_F.step
+    (offset (xyz -0.25 -5.25 11.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -180 0 -90))
   )
 )
