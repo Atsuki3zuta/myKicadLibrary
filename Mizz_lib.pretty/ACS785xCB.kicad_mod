@@ -1,4 +1,4 @@
-(module ACS785xCB (layer F.Cu) (tedit 5DE1C9F9)
+(module ACS785xCB (layer F.Cu) (tedit 5E35644F)
   (fp_text reference U3 (at 0 -12) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -38,9 +38,9 @@
   (pad 3 thru_hole circle (at 1.91 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 5 -21.4) (size 8 3.5) (drill oval 5.6 1.6) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at -5 -21.4) (size 8 3.5) (drill oval 5.6 1.6) (layers *.Cu *.Mask))
-  (model user/ACS758.wrl
-    (offset (xyz 0 9.651999855041504 0))
-    (scale (xyz 3.95 3.95 3.95))
+  (model C:/Users/3Zuta/Downloads/ACS/ACS758.STEP
+    (offset (xyz 0 9.5 0))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )
 )

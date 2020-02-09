@@ -94,4 +94,10 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP PWR_DIODE
+D Diode symbol for simulation only. Pin order incompatible with official kicad footprints
+K simulation
+F ~
+$ENDCMP
+#
 #End Doc Library

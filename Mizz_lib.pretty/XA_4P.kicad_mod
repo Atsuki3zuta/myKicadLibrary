@@ -1,4 +1,4 @@
-(module XA_4P (layer F.Cu) (tedit 5CFF4E3C)
+(module XA_4P (layer F.Cu) (tedit 5E3B97C9)
   (fp_text reference P5 (at 3.75 -4.25) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -17,7 +17,7 @@
   (pad 3 thru_hole oval (at 2.5 0) (size 1.5 2.5) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at 5 0) (size 1.5 2.5) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole oval (at 7.5 0) (size 1.5 2.5) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (model C:/Users/81906/Documents/Ki-Cad_Lib/3Dmodel/B04B-XASK-1N/B04B-XASK-1N.STEP
+  (model C:/Users/3Zuta/OneDrive/デスクトップ/Ki-Cad_Lib/3Dmodel/S04B-XASK-1/B04B-XASK-1N.STEP
     (offset (xyz 3.75 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

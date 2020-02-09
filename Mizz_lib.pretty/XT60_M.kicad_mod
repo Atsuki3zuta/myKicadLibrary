@@ -1,4 +1,4 @@
-(module XT60_M (layer F.Cu) (tedit 59AD2790)
+(module XT60_M (layer F.Cu) (tedit 5E3B97F5)
   (fp_text reference P5 (at 0 3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -13,9 +13,9 @@
   (fp_line (start 8 -4) (end 8 4) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at -3.5 0) (size 6 6) (drill 4.5) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 3.5 0) (size 6 6) (drill 4.5) (layers *.Cu *.Mask F.SilkS))
-  (model conn_XT/XT60_M.wrl
+  (model "C:/Users/3Zuta/OneDrive/デスクトップ/Ki-Cad_Lib/3Dmodel/XT60_m/XT60 Stecker.stp"
     (at (xyz 0 0 0))
-    (scale (xyz 4 4 4))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
