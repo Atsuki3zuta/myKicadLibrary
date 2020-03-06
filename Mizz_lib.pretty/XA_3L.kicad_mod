@@ -1,4 +1,4 @@
-(module XA_3L (layer F.Cu) (tedit 5E3FEB94)
+(module XA_3L (layer F.Cu) (tedit 5E5FAB2F)
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -22,9 +22,9 @@
   (pad 2 thru_hole oval (at 2.5 0) (size 1.5 2.5) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole oval (at 5 0) (size 1.5 2.5) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 2.5 6.5) (size 2.5 2.5) (drill 2) (layers *.Cu *.Mask F.SilkS))
-  (model C:/Users/3Zuta/Downloads/S03B-XASK-1/S03B-XASK-1.STEP
+  (model C:/Users/3Zuta/Documents/KiCAD/myKicadLibrary/3Dmodel/S03B-XASK-1/S03B-XASK-1.STEP
     (offset (xyz 2.5 -5 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 180))
+    (rotate (xyz 0 0 -180))
   )
 )
