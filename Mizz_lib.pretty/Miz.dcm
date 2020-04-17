@@ -88,6 +88,12 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP NDS9936
+D Dual NMOS transistor, 8 pin package
+K transistor NMOS N-MOS N-MOSFET
+F ~
+$ENDCMP
+#
 $CMP NJML7800
 D Linear Regulator +5V
 K POWER REGUL
