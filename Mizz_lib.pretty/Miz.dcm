@@ -5,16 +5,34 @@ D Double ATO 257 fuseholder,15A 500Vac Keystone 15A PCB Mount Fuse Holder for 5.
 F http://uk.rs-online.com/web/p/products/1676068
 $ENDCMP
 #
+$CMP 7400
+D quad 2-input NAND gate
+K TTL nand 2-input
+F http://www.ti.com/lit/gpn/sn7400
+$ENDCMP
+#
 $CMP 7402
 D quad 2-input NOR gate
 K TTL Nor2
 F http://www.ti.com/lit/gpn/sn7402
 $ENDCMP
 #
+$CMP 74HC00
+D quad 2-input NAND gate
+K HCMOS nand 2-input
+F http://www.ti.com/lit/gpn/sn74hc00
+$ENDCMP
+#
 $CMP 74HC02
 D quad 2-input NOR gate
 K HCMOS Nor2
 F http://www.ti.com/lit/gpn/sn74hc02
+$ENDCMP
+#
+$CMP 74HCT00
+D quad 2-input NAND gate
+K HCTMOS nand 2-input
+F http://www.ti.com/lit/gpn/sn74hct00
 $ENDCMP
 #
 $CMP 74HCT02
@@ -33,6 +51,12 @@ $CMP 74LS04
 D Hex Inverter
 K TTL not inv
 F http://www.ti.com/lit/gpn/sn74LS04
+$ENDCMP
+#
+$CMP 74LS14
+D Hex inverter schmitt trigger
+K TTL not inverter
+F http://www.ti.com/lit/gpn/sn74LS14
 $ENDCMP
 #
 $CMP 74LS28
@@ -104,6 +128,18 @@ $CMP PWR_DIODE
 D Diode symbol for simulation only. Pin order incompatible with official kicad footprints
 K simulation
 F ~
+$ENDCMP
+#
+$CMP TC74AC00FT
+D quad 2-input NAND buffer
+K TTL nand 2-input buffer
+F http://akizukidenshi.com/download/tc74ac00ft.pdf
+$ENDCMP
+#
+$CMP TC7W14Fx
+D Hex inverter schmitt trigger
+K HCMOS not inverter
+F http://akizukidenshi.com/download/ds/Toshiba/TC7W14FU_datasheet_ja_20141110.pdf
 $ENDCMP
 #
 #End Doc Library
