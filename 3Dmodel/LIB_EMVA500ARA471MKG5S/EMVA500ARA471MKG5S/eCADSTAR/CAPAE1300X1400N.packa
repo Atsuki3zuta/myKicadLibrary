@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EMVA500ARA471MKG5S"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-07-21-11:01:11)
+    (mountForm default
+        (footprintRef "CAPAE1300X1400N")
+        (spec "System")
+    )
+)

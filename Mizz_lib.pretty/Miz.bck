@@ -41,12 +41,6 @@ K HCTMOS Nor2
 F http://www.ti.com/lit/gpn/sn74hct02
 $ENDCMP
 #
-$CMP 74LS00
-D quad 2-input NAND gate
-K TTL nand 2-input
-F http://www.ti.com/lit/gpn/sn74ls00
-$ENDCMP
-#
 $CMP 74LS02
 D quad 2-input NOR gate
 K TTL Nor2
