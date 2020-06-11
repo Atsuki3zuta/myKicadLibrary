@@ -1,8 +1,8 @@
-(module AQM1602_BL_Fad (layer F.Cu) (tedit 5C59AEA1)
-  (fp_text reference U7 (at 0 0.5) (layer F.SilkS) hide
+(module AQM1602_BL_Fad (layer F.Cu) (tedit 5EE062F7)
+  (fp_text reference U4 (at 0 0.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value AQM1602_BL_Fad (at 0 9.75) (layer F.SilkS)
+  (fp_text value AQM1602_BL (at 0 9.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -20.6 -11.53) (end 20.6 -11.53) (layer F.SilkS) (width 0.15))
@@ -19,6 +19,11 @@
   (pad 7 thru_hole oval (at 5.08 11.535) (size 1.5 2) (drill 0.762) (layers *.Cu *.Mask))
   (pad 8 thru_hole oval (at 7.62 11.535) (size 1.5 2) (drill 0.762) (layers *.Cu *.Mask))
   (pad 9 thru_hole oval (at 10.16 11.535) (size 1.5 2) (drill 0.762) (layers *.Cu *.Mask))
-  (pad 10 thru_hole rect (at -17.6 7.735) (size 3.5 2) (drill oval 2.5 1.1) (layers *.Cu *.Mask))
-  (pad 11 thru_hole rect (at 17.6 7.735) (size 3.5 2) (drill oval 2.5 1.1) (layers *.Cu *.Mask))
+  (pad 10 thru_hole rect (at -17.6 8.735) (size 3.5 2) (drill oval 2.5 1.1) (layers *.Cu *.Mask))
+  (pad 11 thru_hole rect (at 17.6 8.735) (size 3.5 2) (drill oval 2.5 1.1) (layers *.Cu *.Mask))
+  (model C:/Users/3Zuta/Documents/KiCAD/myKicadLibrary/3Dmodel/LCD/AQM1602_BL.step
+    (offset (xyz 0 -12.5 3))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

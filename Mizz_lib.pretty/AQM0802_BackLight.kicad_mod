@@ -1,4 +1,4 @@
-(module AQM0802_BackLight (layer F.Cu) (tedit 598EA0FF)
+(module AQM0802_BackLight (layer F.Cu) (tedit 5EE0637C)
   (fp_text reference P13 (at 27.1 18.7) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -22,4 +22,9 @@
   (pad 1 thru_hole oval (at 9 19.5) (size 1.2 2) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 11 thru_hole rect (at 23 17.4) (size 2.6 1.7) (drill oval 1.6 0.7) (layers *.Cu *.Mask F.SilkS))
   (pad 10 thru_hole rect (at 7 17.4) (size 2.6 1.7) (drill oval 1.6 0.7) (layers *.Cu *.Mask F.SilkS))
+  (model C:/Users/3Zuta/Documents/KiCAD/myKicadLibrary/3Dmodel/LCD/AQM0802A-FLW-GBW.stp
+    (offset (xyz 21.5 -15.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
