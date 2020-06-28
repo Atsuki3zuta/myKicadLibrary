@@ -136,6 +136,11 @@ K TTL nand 2-input buffer
 F http://akizukidenshi.com/download/tc74ac00ft.pdf
 $ENDCMP
 #
+$CMP TC78H653FTG,EL
+D Motor / Motion / Ignition Controllers & Drivers Brush Motor Driver IC 8V 2A
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=63589&prodName=TC78H653FTG
+$ENDCMP
+#
 $CMP TC7W14Fx
 D Hex inverter schmitt trigger
 K HCMOS not inverter
