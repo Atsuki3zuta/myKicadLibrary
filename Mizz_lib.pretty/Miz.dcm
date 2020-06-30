@@ -112,6 +112,11 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP MIWI06-24S05
+D DC/DC CONVERTER 6W, DIP-Package
+F http://www.minmax.com.tw/en/download/files/479/MIWI06_Datasheet.pdf
+$ENDCMP
+#
 $CMP NDS9936
 D Dual NMOS transistor, 8 pin package
 K transistor NMOS N-MOS N-MOSFET
