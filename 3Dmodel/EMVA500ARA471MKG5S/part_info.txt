@@ -1,0 +1,9 @@
+Manufacturer=United Chemi-Con
+PartNumber=EMVA500ARA471MKG5S
+PartCategory=Capacitor
+PackageCategory=Capacitor Al Electrolytic
+PinCount=2
+Version=1.1
+Released=
+Downloaded=2019-11-22 08:30:08
+3D=Y

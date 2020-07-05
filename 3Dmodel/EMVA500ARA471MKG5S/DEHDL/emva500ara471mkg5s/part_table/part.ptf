@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EMVA500ARA471MKG5S'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "United Chemi-Con", "EMVA500ARA471MKG5S" (!) = "", "CAPAE1300X1400N", "Capacitor Al Electrolytic", "", "", "UNITED CHEMI-CON - EMVA500ARA471MKG5S - SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 470 ?F, 50 V, Alchip MVA Series", "", "14 mm"
+END_PART
+
+END.

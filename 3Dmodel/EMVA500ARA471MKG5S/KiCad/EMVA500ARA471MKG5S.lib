@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model EMVA500ARA471MKG5S
+#/5362084/139831/2.44/2/0/Capacitor
+DEF EMVA500ARA471MKG5S C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "EMVA500ARA471MKG5S" 350 150 50 H V L CNN
+F2 "CAPAE1300X1400N" 350 50 50 H I L CNN
+F3 "" 350 -50 50 H I L CNN
+F4 "UNITED CHEMI-CON - EMVA500ARA471MKG5S - SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 470 ?F, 50 V, Alchip MVA Series" 350 -150 50 H I L CNN "Description"
+F5 "14" 350 -250 50 H I L CNN "Height"
+F6 "" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "United Chemi-Con" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "EMVA500ARA471MKG5S" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
