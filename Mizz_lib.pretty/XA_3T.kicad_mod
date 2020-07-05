@@ -1,4 +1,4 @@
-(module XA_3T (layer F.Cu) (tedit 5E5E4093)
+(module XA_3T (layer F.Cu) (tedit 5F0253C6)
   (fp_text reference P2 (at 0 0.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -16,9 +16,9 @@
   (pad 3 thru_hole oval (at 0 0) (size 1.5 2.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at 2.5 0) (size 1.5 2.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole oval (at 5 0) (size 1.5 2.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (model conn_XA/XA_3T.wrl
-    (offset (xyz 2.539999961853027 0 0))
-    (scale (xyz 4 4 4))
-    (rotate (xyz -90 0 0))
+  (model C:/Users/3Zuta/OneDrive/デスクトップ/Ki-Cad_Lib/3Dmodel/B03B-XASS-1-T/B03B-XASS-1-T.STEP
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
