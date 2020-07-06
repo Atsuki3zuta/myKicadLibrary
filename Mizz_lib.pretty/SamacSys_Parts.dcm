@@ -42,4 +42,10 @@ K
 F https://componentsearchengine.com/Datasheets/1/RDC501051A.pdf
 $ENDCMP
 #
+$CMP 3386F-1-103TLF
+D Bourns 3386F Series Through Hole Cermet Trimmer Resistor with Pin Terminations, 10k +/-10% 1/2W +/-100ppm/C Finger Adjust
+K
+F http://uk.rs-online.com/web/p/products/5222233P
+$ENDCMP
+#
 #End Doc Library
