@@ -48,4 +48,10 @@ K
 F http://uk.rs-online.com/web/p/products/5222233P
 $ENDCMP
 #
+$CMP TC78H651FNG,EL
+D Motor / Motion / Ignition Controllers & Drivers Brush Motor Driver IC 7V 1.6A
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=61125&prodName=TC78H651FNG
+$ENDCMP
+#
 #End Doc Library
