@@ -1,7 +1,30 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
-#SamacSys ECAD Model NE555DR
-#/6648/2/2.37/8/4/Integrated Circuit
+#
+# G6L-1P-DC3
+#
+DEF G6L-1P-DC3 K 0 30 Y Y 1 F N
+F0 "K" 1050 300 50 H V L CNN
+F1 "G6L-1P-DC3" 1050 200 50 H V L CNN
+F2 "G6L1PDC3" 1050 100 50 H I L CNN
+F3 "http://uk.rs-online.com/web/p/products/8088452" 1050 0 50 H I L CNN
+F4 "Low Signal Relays - PCB LO PROF SPST 3VDC" 1050 -100 50 H I L CNN "Description"
+F5 "4.3" 1050 -200 50 H I L CNN "Height"
+F6 "8088452" 1050 -300 50 H I L CNN "RS Part Number"
+F7 "http://uk.rs-online.com/web/p/products/8088452" 1050 -400 50 H I L CNN "RS Price/Stock"
+F8 "Omron Electronics" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "G6L-1P-DC3" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 f
+X COM 2 0 0 200 R 50 50 0 0 P
+X NO 4 0 -100 200 R 50 50 0 0 P
+X COIL_1 5 1200 -100 200 L 50 50 0 0 P
+X COIL_2 8 1200 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# NE555DR
+#
 DEF NE555DR IC 0 30 Y Y 1 F N
 F0 "IC" 1050 600 50 H V L CNN
 F1 "NE555DR" 1050 500 50 H V L CNN
@@ -16,6 +39,7 @@ F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-NE555DR" 1050 -300 50 
 F10 "1218414" 1050 -400 50 H I L CNN "RS Part Number"
 F11 "http//uk.rs-online.com/web/p/products/1218414" 1050 -500 50 H I L CNN "RS Price/Stock"
 DRAW
+P 5 0 1 6 200 400 1000 400 1000 -800 200 -800 200 400 N
 X GND 1 600 -1000 200 U 50 50 0 0 B
 X TRIG 2 0 -400 200 R 50 50 0 0 B
 X OUT 3 1200 -200 200 L 50 50 0 0 B
@@ -24,29 +48,6 @@ X CONT 5 500 600 200 D 50 50 0 0 B
 X THRES 6 0 -300 200 R 50 50 0 0 B
 X DISCH 7 0 -100 200 R 50 50 0 0 B
 X VCC 8 700 600 200 D 50 50 0 0 B
-P 5 0 1 6 200 400 1000 400 1000 -800 200 -800 200 400 N
-ENDDRAW
-ENDDEF
-#
-#SamacSys ECAD Model G6L-1P-DC3
-#/341176/139831/2.47/4/4/Relay or Contactor
-DEF G6L-1P-DC3 K 0 30 Y Y 1 F N
-F0 "K" 1050 300 50 H V L CNN
-F1 "G6L-1P-DC3" 1050 200 50 H V L CNN
-F2 "G6L1PDC3" 1050 100 50 H I L CNN
-F3 "http://uk.rs-online.com/web/p/products/8088452" 1050 0 50 H I L CNN
-F4 "Low Signal Relays - PCB LO PROF SPST 3VDC" 1050 -100 50 H I L CNN "Description"
-F5 "4.3" 1050 -200 50 H I L CNN "Height"
-F6 "8088452" 1050 -300 50 H I L CNN "RS Part Number"
-F7 "http://uk.rs-online.com/web/p/products/8088452" 1050 -400 50 H I L CNN "RS Price/Stock"
-F8 "Omron Electronics" 1050 -500 50 H I L CNN "Manufacturer_Name"
-F9 "G6L-1P-DC3" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
-DRAW
-X COM 2 0 0 200 R 50 50 0 0 P
-X NO 4 0 -100 200 R 50 50 0 0 P
-X COIL_1 5 1200 -100 200 L 50 50 0 0 P
-X COIL_2 8 1200 0 200 L 50 50 0 0 P
-P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
 ENDDRAW
 ENDDEF
 #
