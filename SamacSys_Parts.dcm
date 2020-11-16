@@ -10,4 +10,10 @@ D Single Precision Timer
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
+$CMP STL180N6F7
+D N-channel 60 V, 1.9 m typ., 120 A, STripFET F7 Power MOSFET in a PowerFLAT 5x6 package
+K
+F https://www.st.com/resource/en/datasheet/stl140n6f7.pdf
+$ENDCMP
+#
 #End Doc Library
