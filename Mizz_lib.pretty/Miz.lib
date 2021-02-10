@@ -1349,6 +1349,18 @@ X LBO 8 800 150 300 L 59 59 1 1 O
 ENDDRAW
 ENDDEF
 #
+# LexxPluss_Inc
+#
+DEF LexxPluss_Inc U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H I C CNN
+F1 "LexxPluss_Inc" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 0 0 200 0 0 0 LexxPluss,Inc Normal 1 C C
+ENDDRAW
+ENDDEF
+#
 # MOSFET_N
 #
 DEF MOSFET_N Q 0 0 N Y 1 F N
