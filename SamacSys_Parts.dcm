@@ -12,8 +12,12 @@ $ENDCMP
 #
 $CMP STL180N6F7
 D N-channel 60 V, 1.9 m typ., 120 A, STripFET F7 Power MOSFET in a PowerFLAT 5x6 package
-K
 F https://www.st.com/resource/en/datasheet/stl140n6f7.pdf
+$ENDCMP
+#
+$CMP STM32F765BIT6
+D ARM Mikrocontroller - MCU 16/32-BITS MICROS
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/c5/37/9c/1d/a6/09/4e/1a/DM00273119/files/DM00273119.pdf/jcr:content/translations/en.DM00273119.pdf
 $ENDCMP
 #
 #End Doc Library
