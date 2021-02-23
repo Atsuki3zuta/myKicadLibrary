@@ -16,6 +16,11 @@ K transistor NMOS N-MOS N-MOSFET
 F ~
 $ENDCMP
 #
+$CMP STM32F765BITx
+D ARM Mikrocontroller - MCU 16/32-BITS MICROS
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/c5/37/9c/1d/a6/09/4e/1a/DM00273119/files/DM00273119.pdf/jcr:content/translations/en.DM00273119.pdf
+$ENDCMP
+#
 $CMP TC78H651FNG,EL
 D Motor / Motion / Ignition Controllers & Drivers Brush Motor Driver IC 7V 1.6A
 F https://toshiba.semicon-storage.com/info/docget.jsp?did=61125&prodName=TC78H651FNG
