@@ -20,4 +20,10 @@ D ARM Mikrocontroller - MCU 16/32-BITS MICROS
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/c5/37/9c/1d/a6/09/4e/1a/DM00273119/files/DM00273119.pdf/jcr:content/translations/en.DM00273119.pdf
 $ENDCMP
 #
+$CMP 2311765-1
+D AMPLIMITE HD22 Board Mount Connectors: AMPL REC, HD20, R/A, 9P, S/L, .318
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2311765%7FD%7Fpdf%7FEnglish%7FENG_CD_2311765_D.pdf%7F2311765-1
+$ENDCMP
+#
 #End Doc Library
