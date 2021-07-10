@@ -1,8 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2311765-1
+D AMPLIMITE HD22 Board Mount Connectors: AMPL REC, HD20, R/A, 9P, S/L, .318
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2311765%7FD%7Fpdf%7FEnglish%7FENG_CD_2311765_D.pdf%7F2311765-1
+$ENDCMP
+#
+$CMP ADS7953SBDBT
+D 12-Bit, 1-MSPS, 16-Channel, Single-Ended, microPower SAR ADC with Serial I/F
+F http://www.ti.com/lit/ds/symlink/ads7953.pdf
+$ENDCMP
+#
 $CMP G6L-1P-DC3
 D Low Signal Relays - PCB LO PROF SPST 3VDC
 F http://uk.rs-online.com/web/p/products/8088452
+$ENDCMP
+#
+$CMP MAX44284FAUT+T
+D Current Sense Amplifiers -0.1~+36V, High Precision, Low Power Current-Sense Amplifier
+F https://datasheets.maximintegrated.com/en/ds/MAX44284.pdf
 $ENDCMP
 #
 $CMP NE555DR
@@ -18,12 +33,6 @@ $ENDCMP
 $CMP STM32F765BIT6
 D ARM Mikrocontroller - MCU 16/32-BITS MICROS
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/c5/37/9c/1d/a6/09/4e/1a/DM00273119/files/DM00273119.pdf/jcr:content/translations/en.DM00273119.pdf
-$ENDCMP
-#
-$CMP 2311765-1
-D AMPLIMITE HD22 Board Mount Connectors: AMPL REC, HD20, R/A, 9P, S/L, .318
-K
-F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2311765%7FD%7Fpdf%7FEnglish%7FENG_CD_2311765_D.pdf%7F2311765-1
 $ENDCMP
 #
 #End Doc Library
