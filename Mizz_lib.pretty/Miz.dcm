@@ -37,4 +37,10 @@ D Motor / Motion / Ignition Controllers & Drivers Brush Motor Driver IC 7V 1.6A
 F https://toshiba.semicon-storage.com/info/docget.jsp?did=61125&prodName=TC78H651FNG
 $ENDCMP
 #
+$CMP TPH11006NL
+D N-MOSFET transistor, gate/source/drain
+K transistor NMOS N-MOS N-MOSFET
+F ~
+$ENDCMP
+#
 #End Doc Library
